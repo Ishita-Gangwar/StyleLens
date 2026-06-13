@@ -69,3 +69,5 @@ Uploads an image and returns similar fashion items.
 - Drag and drop upload
 - Top-k selector
 - Better metadata filtering
+=======
+Fashion image similarity search app using FastAPI, FAISS, PyTorch, React, and Vite.
